@@ -159,7 +159,8 @@
 - 12/06/2018 - RCE in PHP or How to Bypass Disable Functions in PHP Installations - https://lab.wallarm.com/rce-in-php-or-how-to-bypass-disable-functions-in-php-installations-6ccdbf4f52bb
 - 01/24/2019 - Magento RCE Local File Read with Low Privilege Admin Rights - https://blog.scrt.ch/2019/01/24/magento-rce-local-file-read-with-low-privilege-admin-rights/
 - 04/04/2019 -Handlebars template injection and RCE in a Shopify app -<a href="https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html">https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html</a>
-- 04/09/2019 -Dell KACE K1000 Remote Code Execution - the Story of Bug K1-18652-<a href="https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/">https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/</a>
+- 04/09/2019 - Dell KACE K1000 Remote Code Execution - the Story of Bug K1-18652 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/
+- 07/02/2019 - Magento 2.3.1: Unauthenticated Stored XSS to RCE - https://blog.ripstech.com/2019/magento-rce-via-xss/
 
 #### Reverse Engineering
 - 04/19/2016 - Digging into a Facebook Worm -https://gist.githubusercontent.com/phwd/0ec21c6289543f35135e17aa11f7dec1/raw/a54995a3a1e18bdf4666b0a44e678ac979c1f932/wormwormworm.txt
@@ -184,22 +185,23 @@
 10/14/2016 -<a href="http://zuh4n.blogspot.ca/2016/10/adobe-importance-of-up-to-date.html" style="color: rgb(68, 68, 68); text-decoration-line: none; font-stretch: normal; line-height: normal;">Importance of up-to-date application usage plus complex password OR from directory traversal to admin panel takeover</a>-http://zuh4n.blogspot.ca/
 
 #### SSRF
-
--09/11/2014 - Trying to Hack Redis Via HTTP Requests - http://www.agarri.fr/kom/archives/2014/09/11/trying_to_hack_redis_via_http_requests/index.html
-04/18/2016 -ESEA Server-Side Request Forgery and Querying AWS Meta Data -http://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/
-02/23/2016 -FFMPEG File Disclosure -https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/web/super-turbo-atomic-gif-converter
-Trello Bug BOunty Access Servier Files Using Imagetragick -https://hethical.io/trello-bug-bounty-access-servers-files-using-imagetragick/
-03/01/2017 - Ok Google, Give Me All Your Internal DNS Information! - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/
-05/22/2017 - From Serialized to Shell :: Exploiting Google Web Toolkit with EL Injection - http://srcincite.io/blog/2017/05/22/from-serialized-to-shell-auditing-google-web-toolkit-with-el-injection.html
-05/29/2017 - Pivoting from Blind SSRF to RCE with Hashicorp Consul - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html
-04/09/2018 - Piercing the Veil: Server Side Request Forgery to NIPRNetaccess - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a
-07/20/2018 - Into the Borg: Inside Google&#39;s Production Network-https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
+- 09/11/2014 - Trying to Hack Redis Via HTTP Requests - http://www.agarri.fr/kom/archives/2014/09/11/trying_to_hack_redis_via_http_requests/index.html
+- 04/18/2016 -ESEA Server-Side Request Forgery and Querying AWS Meta Data -http://buer.haus/2016/04/18/esea-server-side-request-forgery-and-querying-aws-meta-data/
+- 02/23/2016 -FFMPEG File Disclosure -https://github.com/ctfs/write-ups-2015/tree/master/9447-ctf-2015/web/super-turbo-atomic-gif-converter
+- Trello Bug BOunty Access Servier Files Using Imagetragick -https://hethical.io/trello-bug-bounty-access-servers-files-using-imagetragick/
+- 03/01/2017 - Ok Google, Give Me All Your Internal DNS Information! - https://www.rcesecurity.com/2017/03/ok-google-give-me-all-your-internal-dns-information/
+- 05/22/2017 - From Serialized to Shell :: Exploiting Google Web Toolkit with EL Injection - http://srcincite.io/blog/2017/05/22/from-serialized-to-shell-auditing-google-web-toolkit-with-el-injection.html
+- 05/29/2017 - Pivoting from Blind SSRF to RCE with Hashicorp Consul - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html
+- 04/09/2018 - Piercing the Veil: Server Side Request Forgery to NIPRNetaccess - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a
+- 07/20/2018 - Into the Borg: Inside Google&#39;s Production Network-https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
 
 #### SSTI
 - 02/15/2015 - RCE in Oracle NetBeans Opensource Plugins: PrimeFaces 5.x Expression Language Injection - http://blog.mindedsecurity.com/2016/02/rce-in-oracle-netbeans-opensource.html
 - 11/01/2015 - Reliable OS Shell with EL Expression - https://blog.mindedsecurity.com/2015/11/reliable-os-shell-with-el-expression.html
-- 04/25/2016 -Adapting AngularJS Payloads to Exploit Real World Applications -http://blog.portswigger.net/2016/04/adapting-angularjs-payloads-to-exploit.html
+- 04/25/2016 - Adapting AngularJS Payloads to Exploit Real World Applications -http://blog.portswigger.net/2016/04/adapting-angularjs-payloads-to-exploit.html
+- 04/03/2018 - Beyond XSS: Edge Side Include Injection - https://www.gosecure.net/blog/2018/04/03/beyond-xss-edge-side-include-injection
 - 12/07/2018 - RCE in Hubspot with EL injection in HubL - https://www.betterhacker.com/2018/12/rce-in-hubspot-with-el-injection-in-hubl.html
+- 05/02/2019 - ESI Injection Part 2: Abusing Specific Implementations - https://www.gosecure.net/blog/2019/05/02/esi-injection-part-2-abusing-specific-implementations
 
 #### Subdomain Takeover
 - 10/21/14 - Hostile Subdomain Takeover using Heroku/Github/Desk + more -https://labs.detectify.com/2014/10/21/hostile-subdomain-takeover-using-herokugithubdesk-more/
