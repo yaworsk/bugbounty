@@ -1,0 +1,1 @@
+This is a repo of interesting bug bounty related resources I started in April 2016. I use it to to keep track of interesting write-ups, resources, tools, etc. It was inspired by Philippe Harewood's (@phwd) [Facebook Page](https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640)
