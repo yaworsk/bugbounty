@@ -35,6 +35,7 @@
 #### Brute Forcing
 - 05/19/2016 - InstaBrute: Two Ways to Brute-force Instagram Account Credentials-https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/
 - 05/29/2017 - Cross Origin Brute Forcing of SAML - http://blog.intothesymmetry.com/2017/05/cross-origin-brute-forcing-of-saml-and.html
+- 08/26/2019 - How I hacked Instagram Again - https://thezerohack.com/hack-instagram-again
 
 #### CORS/CSP
 - 04/04/2016 -CSP: bypassing form-action with reflected XSS-https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss
