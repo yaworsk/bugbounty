@@ -122,6 +122,10 @@
 - 06/23/2017 - Uber Login CSRF Open Redirect Account Takeover - http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/
 - Yahoo Bug Bounty: Exploiting OAuth Misconfiguration To Takeover FlickrAccounts - https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-10/12/2017 - exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/
 
+#### Privilege Escalation
+- 02/21/2019 - Breaking out of Docker via runC – Explaining CVE-2019-5736 - https://www.twistlock.com/labs-blog/breaking-docker-via-runc-explaining-cve-2019-5736/
+- 08/28/2019 - Non-root containers, Kubernetes CVE-2019-11245 and why you should care - https://www.twistlock.com/labs-blog/non-root-containers-kubernetes-cve-2019-11245-care/
+
 #### Relative Path Overwrite
 - 03/21/2014 - Relative vs Absolute -http://www.thespanner.co.uk/2014/03/21/rpo/
 - 02/17/2015 - Detecting and exploiting path-relative stylesheet import (PRSSI) vulnerabilities -http://blog.portswigger.net/2015/02/prssi.html
