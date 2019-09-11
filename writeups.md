@@ -31,6 +31,7 @@
 - 02/28/2017 - Hacking Slack using postMessage and WebSocket-reconnect to steal your precious token - https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/
 - 03/21/2017 - LastPass: FireFox error pages still load Content Scripts, allowing access to ExtensionProxyService - https://bugs.chromium.org/p/project-zero/issues/detail?id=1217
 - 04/05/17 - Defeating the popUp blocker, the XSS filter and SuperNavigate with our fake ticket to the Intranet Zone - https://www.brokenbrowser.com/free-ticket-to-the-intranet-zone/
+- 09/03/19 - Security analysis of <portal> element - https://research.securitum.com/security-analysis-of-portal-element/
 
 #### Brute Forcing
 - 05/19/2016 - InstaBrute: Two Ways to Brute-force Instagram Account Credentials-https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/
