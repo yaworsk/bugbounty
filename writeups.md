@@ -123,6 +123,9 @@
 - 06/23/2017 - Uber Login CSRF Open Redirect Account Takeover - http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/
 - Yahoo Bug Bounty: Exploiting OAuth Misconfiguration To Takeover FlickrAccounts - https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-10/12/2017 - exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/
 
+#### Path Traversal
+- 09/25/2019 - Analysis of CVE-2019-14994 – Jira Service Desk Path Traversal leads to Massive Information Disclosure - https://samcurry.net/analysis-of-cve-2019-14994/
+
 #### Privilege Escalation
 - 02/21/2019 - Breaking out of Docker via runC – Explaining CVE-2019-5736 - https://www.twistlock.com/labs-blog/breaking-docker-via-runc-explaining-cve-2019-5736/
 - 08/28/2019 - Non-root containers, Kubernetes CVE-2019-11245 and why you should care - https://www.twistlock.com/labs-blog/non-root-containers-kubernetes-cve-2019-11245-care/
