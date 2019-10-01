@@ -1,3 +1,6 @@
+## Git Monitoring
+- [How to Monitor GitHub for Secrets](https://duo.com/labs/research/how-to-monitor-github-for-secrets)
+
 ## Server Side Template Injection
 - [Server Side Template Injection – on the example of Pebble](https://research.securitum.com/server-side-template-injection-on-the-example-of-pebble/)
 
