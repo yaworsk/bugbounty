@@ -8,3 +8,6 @@
 
 - [GitGot](https://github.com/BishopFox/GitGot)
 > GitGot is a semi-automated, feedback-driven tool to empower users to rapidly search through troves of public data on GitHub for sensitive secrets.
+
+- [ShhGit](https://github.com/eth0izzle/shhgit/)
+> Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API.
