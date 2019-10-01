@@ -23,6 +23,7 @@
 - 03/13/2017 - The road to your codebase is paved with forged assertions - http://www.economyofmechanism.com/github-saml.html
 - 03/21/2017 - Stealing messenger.com login nonces - https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/
 - 09/06/2017 - Uber Bug Bounty: Gaining Access to an Internal Chat System -http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/
+- 10/01/2019 - CompleteFTP Server Local Privilege Escalation CVE-2019-16116 - https://rhinosecuritylabs.com/application-security/completeftp-server-local-privesc-cve-2019-16116/
 
 #### Browser
 - 08/16/2016 - Google Chrome, Firefox Address Bar Spoofing Vulnerability - http://www.rafayhackingarticles.net/2016/08/google-chrome-firefox-address-bar.html
