@@ -12,6 +12,7 @@
 - 03/28/2017 - This book reads you using Javascript - https://s1gnalcha0s.github.io/ibooks/epub/2017/03/27/This-book-reads-you-using-JavaScript.html
 - 11/27/2017 - How I owned the BBC with a Simple Misconfiguration - https://www.daley.cc/how-i-owned-the-bbc-with-a-simple-misconfiguration-due-to-human-laziness
 - 03/27/18 - Google XML sitemap auth bypass &ndash; Black Hat SEO Bug Bounty - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/
+- 10/03/19 - Application logic bug in Signal allows for calls to be answered without interaction - https://bugs.chromium.org/p/project-zero/issues/detail?id=1943
 
 #### Authentication
 - 04/27/2016 -Microsoft Office 365 SAML Bypass -http://www.economyofmechanism.com/office365-authbypass.html
