@@ -208,6 +208,7 @@
 - 05/29/2017 - Pivoting from Blind SSRF to RCE with Hashicorp Consul - http://www.kernelpicnic.net/2017/05/29/Pivoting-from-blind-SSRF-to-RCE-with-Hashicorp-Consul.html
 - 04/09/2018 - Piercing the Veil: Server Side Request Forgery to NIPRNetaccess - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a
 - 07/20/2018 - Into the Borg: Inside Google&#39;s Production Network-https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
+- 10/18/2019 - A Tale of Exploitation in Spreadsheet File Conversions - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/
 
 #### SSTI
 - 02/15/2015 - RCE in Oracle NetBeans Opensource Plugins: PrimeFaces 5.x Expression Language Injection - http://blog.mindedsecurity.com/2016/02/rce-in-oracle-netbeans-opensource.html
