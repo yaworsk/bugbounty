@@ -175,6 +175,7 @@
 - 04/04/2019 -Handlebars template injection and RCE in a Shopify app -<a href="https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html">https://mahmoudsec.blogspot.com/2019/04/handlebars-template-injection-and-rce.html</a>
 - 04/09/2019 - Dell KACE K1000 Remote Code Execution - the Story of Bug K1-18652 - https://www.rcesecurity.com/2019/04/dell-kace-k1000-remote-code-execution-the-story-of-bug-k1-18652/
 - 07/02/2019 - Magento 2.3.1: Unauthenticated Stored XSS to RCE - https://blog.ripstech.com/2019/magento-rce-via-xss/
+- 10/20/2019 - Unauthenticated Remote Code Execution in Nostromo web server - https://www.sudokaikan.com/2019/10/cve-2019-16278-unauthenticated-remote.html
 
 #### Reverse Engineering
 - 04/19/2016 - Digging into a Facebook Worm -https://gist.githubusercontent.com/phwd/0ec21c6289543f35135e17aa11f7dec1/raw/a54995a3a1e18bdf4666b0a44e678ac979c1f932/wormwormworm.txt
