@@ -257,6 +257,7 @@
 
 #### XXE
 
-- 06/25/2014 -Identifying Xml eXternal Entity vulnerability (XXE)in GPX files -http://blog.h3xstream.com/2014/06/identifying-xml-external-entity.html
+- 06/25/2014 - Identifying Xml eXternal Entity vulnerability (XXE)in GPX files -http://blog.h3xstream.com/2014/06/identifying-xml-external-entity.html
 - 03/21/2015 - XML External Entity (XXE) Injection in Apache Batik Library [CVE-2015-0250] -https://www.insinuator.net/2015/03/xxe-injection-in-apache-batik-library-cve-2015-0250/
-- 08/14/2015-XXE ALL THE THINGS!!! (INCLUDING APPLE IOS&rsquo;S OFFICE VIEWER)-https://labs.integrity.pt/articles/xxe-all-the-things-including-apple-ioss-office-viewer/
+- 08/14/2015 - XXE ALL THE THINGS!!! (INCLUDING APPLE IOS&rsquo;S OFFICE VIEWER)-https://labs.integrity.pt/articles/xxe-all-the-things-including-apple-ioss-office-viewer/
+- 10/24/2018 - Don’t open that XML: XXE to RCE in XML plugins for VS Code, Eclipse, Theia, … - https://www.shielder.it/blog/dont-open-that-xml-xxe-to-rce-in-xml-plugins-for-vs-code-eclipse-theia/
