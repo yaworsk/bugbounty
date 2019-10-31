@@ -1,3 +1,7 @@
+## Parameter Discovery
+- [Arjun](https://github.com/s0md3v/Arjun)
+> Arjun finds valid HTTP parameters with a huge default dictionary of 25,980 parameter names. It takes less than 30 seconds to go through this huge list while making just 50-60 requests to the target.
+
 ## GitHub Secrets
 
 - [Git Leaks](https://github.com/zricethezav/gitleaks)
