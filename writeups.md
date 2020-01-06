@@ -1,18 +1,18 @@
 #### Application Logic
-- 06/18/2013 -https://labs.spotify.com/2013/06/18/creative-usernames/ -Creative usernames and Spotify account hijacking
+- 06/18/2013 - https://labs.spotify.com/2013/06/18/creative-usernames/ -Creative usernames and Spotify account hijacking
 - 06/26/2013 - Hijacking a Facebook Account with SMS-https://whitton.io/articles/hijacking-a-facebook-account-with-sms/
-- 03/25/2014 -PhabricatorBypass auth.email-domains -https://hackerone.com/reports/2233
+- 03/25/2014 - PhabricatorBypass auth.email-domains -https://hackerone.com/reports/2233
 - 05/15/2016 - The Bank Job -https://boris.in/blog/2016/the-bank-job/
 - 06/06/2016 - Trello bug bounty: Payments informations are sent to the webhook -https://hethical.io/trello-bug-bounty-payments-informations-are-sent-to-the-webhook-when-a-team-changes-its-visibility/
 - 06/07/2016 - Pwning Pornhub (memcache) -https://blog.zsec.uk/pwning-pornhub/
 - 07/01/2016 - Magento &ndash; Re-Installation &amp; Account Hijacking Vulnerabilities -http://netanelrub.in/2016/07/01/magento-re-installation-account-hijacking-vulnerabilities/
 - 08/08/2016 - Free way to Facebook Freebooting | Hacking Rights Manager -http://www.7xter.com/2016/08/free-way-to-facebook-freebooting.html
-- 09/02/2016 -Response To Request Injection (RTRI) -https://www.bugbountyhq.com/front/latestnews/dWRWR0thQ2ZWOFN5cTE1cXQrSFZmUT09/
+- 09/02/2016 - Response To Request Injection (RTRI) -https://www.bugbountyhq.com/front/latestnews/dWRWR0thQ2ZWOFN5cTE1cXQrSFZmUT09/
 - 03/15/2017 - Check Point Discloses Vulnerability in Whatsapp and Telegram - http://blog.checkpoint.com/2017/03/15/check-point-discloses-vulnerability-whatsapp-telegram/
 - 03/28/2017 - This book reads you using Javascript - https://s1gnalcha0s.github.io/ibooks/epub/2017/03/27/This-book-reads-you-using-JavaScript.html
 - 11/27/2017 - How I owned the BBC with a Simple Misconfiguration - https://www.daley.cc/how-i-owned-the-bbc-with-a-simple-misconfiguration-due-to-human-laziness
-- 03/27/18 - Google XML sitemap auth bypass &ndash; Black Hat SEO Bug Bounty - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/
-- 10/03/19 - Application logic bug in Signal allows for calls to be answered without interaction - https://bugs.chromium.org/p/project-zero/issues/detail?id=1943
+- 03/27/2018 - Google XML sitemap auth bypass &ndash; Black Hat SEO Bug Bounty - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/
+- 10/03/2019 - Application logic bug in Signal allows for calls to be answered without interaction - https://bugs.chromium.org/p/project-zero/issues/detail?id=1943
 
 #### Authentication
 - 04/27/2016 -Microsoft Office 365 SAML Bypass -http://www.economyofmechanism.com/office365-authbypass.html
@@ -47,11 +47,9 @@
 - 01/19/2017 - Google Analytics could be used as CSP bypass for data exfiltration on hackerone.com - https://hackerone.com/reports/199779
 
 #### CRLF
-
 - 03/15/2015 - Parse.com - X-Forwarded-Host Injection - Bypass secure &amp; HTTP_only Vulnerability - https://www.youtube.com/watch?v=1yUw7rtTTeI
 
 #### CSRF
-
 - 05/17/2016 - How I bypassed Facebook CSRF in 2016 -http://pouyadarabi.blogspot.ca/2016/05/how-i-bypassed-facebook-csrf-in-2016.htm
 - 19/07/2016 - Paypal bug bounty: Updating the Paypal.me profile picture without consent (CSRF attack) -https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/
 - 26/10/2016 - Google Spreadsheet Vuln - CSRF and JSON Hijacking allows data theft - https://www.rodneybeede.com/Google_Spreadsheet_Vuln_-_CSRF_and_JSON_Hijacking_allows_data_theft.html
@@ -67,11 +65,15 @@
 - 08/23/2015 - Twitter HPP vulnerability unsubscribing from emails-http://www.merttasci.com/blog/twitter-hpp-vulnerability/
 - 12/03/2015 - Parameter Tampering Attack on Twitter Web Intents - https://ericrafaloff.com/parameter-tampering-attack-on-twitter-web-intents/
 - 02/02/2016 - Bypassing Digits web authentication&#39;s host validation with HPP -https://hackerone.com/reports/114169
-- 05/28/18 - reCaptcha Bypass Via HTTP Parameter Pollution - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/
+- 05/28/2018 - reCaptcha Bypass Via HTTP Parameter Pollution - https://andresriancho.com/recaptcha-bypass-via-http-parameter-pollution/
 
 #### Host Header Injection
 - 09/06/2016 - Internet Explorer has a URL Problem - http://blog.innerht.ml/internet-explorer-has-a-url-problem/
 - 10/24/2016 - Combining Host Header Injection and Lax Host Parsing Service Malicious Data - https://labs.detectify.com/2016/10/24/combining-host-header-injection-and-lax-host-parsing-serving-malicious-data/
+
+#### HTTP Request Smuggling
+- 12/05/2019 - HTTP Request Smuggling + IDOR - https://hipotermia.pw/bb/http-desync-idor
+- 01/03/2020 - Account Takeover Via HTTP Request Smuggling https://hipotermia.pw/bb/http-desync-account-takeover
 
 #### IDOR
 - 07/08/2014 - Hacking Facebook&rsquo;s Legacy API, Part 1: Making Calls on Behalf of Any User -http://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/
