@@ -19,3 +19,6 @@
 ## Url Discovery
 - [Get All URLs](https://github.com/lc/hacks/tree/master/getallurls)
 > Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl. Originally built as a microservice.
+
+- [hakrevdns](https://github.com/hakluke/hakrevdns)
+> Small, fast tool for performing reverse DNS lookups en masse.

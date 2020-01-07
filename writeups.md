@@ -113,6 +113,7 @@
 - 07/25/2017 - The Race to the Top fo a Bug Bounty Program - https://gerbenjavado.com/the-race-to-the-top-of-a-bug-bounty-program/
 - 11/27/2017 - Exposing Your Privates - http://exceptionlevelone.blogspot.ca/2017/11/exposing-your-privates.html?m=1
 - 01/08/2017 - Studying APK reverse engineering by breaking the anonymity of BlindSpot app - https://medium.com/@inonst/sudying-apk-reverse-engineering-by-breaking-the-anonymity-of-blindspot-app-57cbc458ce5a
+- 01/06/2019 - Saying Goodbye To My Favorite 5 Minute P1 - https://www.allysonomalley.com/2020/01/06/saying-goodbye-to-my-favorite-5-minute-p1/
 
 #### OAuth
 - 02/07/2014 - How I Hacked GitHub Again. - http://homakov.blogspot.ca/2014/02/how-i-hacked-github-again.html
