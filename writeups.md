@@ -124,10 +124,11 @@
 - 04/03/2016 - Obtaining Login Tokens for Outlook, Office orAzure (OAuth) -https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/
 - 06/16/2016 - Bypass Disabled Client OAuth Login in Facebook Pages Manager App - http://philippeharewood.com/bypass-disabled-client-oauth-login-in-facebook-pages-manager-app/
 - 10/13/2016 - CVE-2016-4977: RCE in Spring Security OAuth -http://secalert.net/#CVE-2016-4977
-- 11/28/2016 -All your Paypal OAuth tokens belong to me - localhost for the win - http://blog.intothesymmetry.com/2016/11/all-your-paypal-tokens-belong-to-me.html
+- 11/28/2016 - All your Paypal OAuth tokens belong to me - localhost for the win - http://blog.intothesymmetry.com/2016/11/all-your-paypal-tokens-belong-to-me.html
 - 06/22/2017 - Authentication Bypass on Airbnb via OAuth Token Theft - https://www.arneswinnen.net/2017/06/authentication-bypass-on-airbnb-via-oauth-tokens-theft/
 - 06/23/2017 - Uber Login CSRF Open Redirect Account Takeover - http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/
-- Yahoo Bug Bounty: Exploiting OAuth Misconfiguration To Takeover FlickrAccounts - https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-10/12/2017 - exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/
+- 10/12/2017 - Yahoo Bug Bounty: Exploiting OAuth Misconfiguration To Takeover FlickrAccounts - https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/
+- 03/01/2020 - Facebook OAuth Framework Vulnerability - https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/
 
 #### Path Traversal
 - 09/25/2019 - Analysis of CVE-2019-14994 – Jira Service Desk Path Traversal leads to Massive Information Disclosure - https://samcurry.net/analysis-of-cve-2019-14994/
