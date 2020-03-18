@@ -6,6 +6,7 @@
 
 ## Request Smuggling
 - [Security: HTTP Smuggling, Apache Traffic Server](https://regilero.github.io/english/security/2019/10/17/security_apache_traffic_server_http_smuggling/)
+- [HTTP Request Smuggling – 5 Practical Tips] (https://honoki.net/2020/02/18/http-request-smuggling-5-practical-tips/)
 
 ## Server Side Template Injection
 - [Server Side Template Injection – on the example of Pebble](https://research.securitum.com/server-side-template-injection-on-the-example-of-pebble/)
