@@ -16,6 +16,10 @@
 - [ShhGit](https://github.com/eth0izzle/shhgit/)
 > Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API.
 
+## Server Side Request Forgery
+- [DNS Bin](http://dnsbin.zhack.ca/)
+> Log requests to a server to validate SSRF vulnerabilities
+
 ## Url Discovery
 - [Get All URLs](https://github.com/lc/hacks/tree/master/getallurls)
 > Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl. Originally built as a microservice.
