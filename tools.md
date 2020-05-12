@@ -1,7 +1,3 @@
-## Parameter Discovery
-- [Arjun](https://github.com/s0md3v/Arjun)
-> Arjun finds valid HTTP parameters with a huge default dictionary of 25,980 parameter names. It takes less than 30 seconds to go through this huge list while making just 50-60 requests to the target.
-
 ## GitHub Secrets
 
 - [Git Leaks](https://github.com/zricethezav/gitleaks)
@@ -15,6 +11,13 @@
 
 - [ShhGit](https://github.com/eth0izzle/shhgit/)
 > Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API.
+
+## Parameter Discovery
+- [Arjun](https://github.com/s0md3v/Arjun)
+> Arjun finds valid HTTP parameters with a huge default dictionary of 25,980 parameter names. It takes less than 30 seconds to go through this huge list while making just 50-60 requests to the target.
+
+- [PostMessage Logger](https://github.com/opnsec/postMessage-logger)
+> Simple "postMessage logger" Chrome extension
 
 ## Server Side Request Forgery
 - [DNS Bin](http://dnsbin.zhack.ca/)
