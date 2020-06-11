@@ -1,6 +1,9 @@
 ## Git Monitoring
 - [How to Monitor GitHub for Secrets](https://duo.com/labs/research/how-to-monitor-github-for-secrets)
 
+## GraphQL Authorization
+- [Closing the Loop: Practical Attacks and Defences for GraphQL APIs](https://spaceraccoon.dev/closing-the-loop-practical-attacks-and-defences-for-graphql-apis)
+
 ## Mobile Security
 - [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf)
 
