@@ -6,3 +6,10 @@
 -- Look for unauthenticated services
 -- Look for SSRF vulnerabilities (e.g., http or https references)
 - Combine vulnerabilities between systems
+
+> [My expense report resulted in a server side request forgery on Lyft](https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft)
+#### Takeaways
+- PDF generators are notorious for SSRF
+- Test generators with simple HTML tags
+- Read the code; search for HTML tags which take a URL attribute
+- Validate your payloads if things aren't firing
