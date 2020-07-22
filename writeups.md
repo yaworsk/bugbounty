@@ -265,6 +265,7 @@
 - 08/04/2017 - XSS because of wrong content-type header - https://bugbaba.blogspot.ca/2017/08/xss-because-of-wrong-content-type-header.html
 - 10/11/2017 - Leaking Amazon.com CSRF Tokens Using Service Worker API - https://ahussam.me/Amazon-leaking-csrf-token-using-service-worker/
 - 05/03/2020 - DOM XSS in Gmail with a little help from Chrome - https://opnsec.com/2020/05/dom-xss-in-gmail-with-a-little-help-from-chrome/
+- 07/22/2020 - HTML Sanitization Bypass in Ruby Sanitize <5.2.1 - https://research.securitum.com/html-sanitization-bypass-in-ruby-sanitize-5-2-1/
 
 #### XSSI
 - 01/08/2020 - The Bug That Exposed Your Paypal Password - https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9
