@@ -7,6 +7,9 @@
 ## Mobile Security
 - [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf)
 
+## Prototype Pollution
+- [Prototype Pollution and Bypassing Client Side HTML Sanitizers](https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/)
+
 ## Request Smuggling
 - [Security: HTTP Smuggling, Apache Traffic Server](https://regilero.github.io/english/security/2019/10/17/security_apache_traffic_server_http_smuggling/)
 - [HTTP Request Smuggling – 5 Practical Tips](https://honoki.net/2020/02/18/http-request-smuggling-5-practical-tips/)
