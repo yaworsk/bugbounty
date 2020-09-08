@@ -75,6 +75,7 @@
 - 12/05/2019 - HTTP Request Smuggling + IDOR - https://hipotermia.pw/bb/http-desync-idor
 - 01/03/2020 - Account Takeover Via HTTP Request Smuggling https://hipotermia.pw/bb/http-desync-account-takeover
 - 03/18/2020 - XXE-scape through the front door: circumventing the firewall with HTTP request smuggling - https://honoki.net/2020/03/18/xxe-scape-through-the-front-door-circumventing-the-firewall-with-http-request-smuggling/
+- 09/09/2020 - h2c Smuggling: Request Smuggling Via HTTP/2 Cleartext (h2c) - https://labs.bishopfox.com/tech-blog/h2c-smuggling-request-smuggling-via-http/2-cleartext-h2c
 
 #### IDOR
 - 07/08/2014 - Hacking Facebook&rsquo;s Legacy API, Part 1: Making Calls on Behalf of Any User -http://stephensclafani.com/2014/07/08/hacking-facebooks-legacy-api-part-1-making-calls-on-behalf-of-any-user/
