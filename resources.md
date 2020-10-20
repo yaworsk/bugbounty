@@ -18,5 +18,11 @@
 ## Mobile
 - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
 
+## Salesforce
+-[Salesforce Lightning](https://www.enumerated.de/index/salesforce)
+
 ## Subdomain Takeover
 - [Subdomain Takeover Pro Tips](https://securitytrails.com/blog/subdomain-takeover-tips)
+
+## VPN
+- [How to: Burp OpenVPN](https://honoki.net/2019/06/21/how-to-burp-and-openvpn/) 

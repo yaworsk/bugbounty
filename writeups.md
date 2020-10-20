@@ -131,6 +131,7 @@
 - 06/23/2017 - Uber Login CSRF Open Redirect Account Takeover - http://ngailong.com/uber-login-csrf-open-redirect-account-takeover/
 - 10/12/2017 - Yahoo Bug Bounty: Exploiting OAuth Misconfiguration To Takeover FlickrAccounts - https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/
 - 03/01/2020 - Facebook OAuth Framework Vulnerability - https://www.amolbaikar.com/facebook-oauth-framework-vulnerability/
+- 10/19/2020 - GitHub Gist - Account takeover via open redirect - https://devcraft.io/2020/10/19/github-gist-account-takeover.html
 
 #### Path Traversal
 - 09/25/2019 - Analysis of CVE-2019-14994 – Jira Service Desk Path Traversal leads to Massive Information Disclosure - https://samcurry.net/analysis-of-cve-2019-14994/
@@ -184,6 +185,9 @@
 - 07/02/2019 - Magento 2.3.1: Unauthenticated Stored XSS to RCE - https://blog.ripstech.com/2019/magento-rce-via-xss/
 - 10/20/2019 - Unauthenticated Remote Code Execution in Nostromo web server - https://www.sudokaikan.com/2019/10/cve-2019-16278-unauthenticated-remote.html
 - 01/12/2020 - Remote Code Execution in Three Acts: Chaining Exposed Actuators and H2 Database Aliases in Spring Boot 2 - https://spaceraccoon.dev/remote-code-execution-in-three-acts-chaining-exposed-actuators-and-h2-database
+- 10/18/2020 - GitHub - RCE via git option injection (almost) - https://devcraft.io/2020/10/18/github-rce-git-inject.html
+- 10/19/2020 - Symfony Secret Fragments - https://www.ambionics.io/blog/symfony-secret-fragment
+- 10/20/2020 - GitHub Pages - Multiple RCEs via insecure Kramdown configuration - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html
 
 #### Reverse Engineering
 - 04/19/2016 - Digging into a Facebook Worm -https://gist.githubusercontent.com/phwd/0ec21c6289543f35135e17aa11f7dec1/raw/a54995a3a1e18bdf4666b0a44e678ac979c1f932/wormwormworm.txt
