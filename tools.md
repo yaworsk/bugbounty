@@ -19,6 +19,10 @@
 - [PostMessage Logger](https://github.com/opnsec/postMessage-logger)
 > Simple "postMessage logger" Chrome extension
 
+## Prototype Pollution
+- [PPScan](https://github.com/msrkp/PPScan)
+> Client Side Prototype Pollution Scanner
+
 ## Server Side Request Forgery
 - [DNS Bin](http://dnsbin.zhack.ca/)
 > Log requests to a server to validate SSRF vulnerabilities
