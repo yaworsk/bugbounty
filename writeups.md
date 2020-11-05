@@ -85,6 +85,7 @@
 - 08/25/2016 - How I Could Have Hacked Multiple Facebook Accounts -https://medium.com/@gurkiratsingh/how-i-could-have-hacked-multiple-facebook-accounts-d9d335188d9b#.ys71w02ge
 - 11/22/2016 - You get a UUID! You get a UUID! Everybody gets a UUID! - http://www.rohk.xyz/uber-uuid/
 - 01/23/2017 - Facebook Vulnerability to Delete Any Video - http://danmelamed.blogspot.ca/2017/01/facebook-vulnerability-delete-any-video.html
+- 10/07/2020 - $6K Worth Account Takeover via IDOR in Starbucks Singapore - http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/
 
 #### HTML Injection
 - 07/26/2016 - Keeping Positive &ndash; Obtaining Arbitrary Wildcard SSL Certificates from Comodo via Dangling Markup Injection -https://thehackerblog.com/keeping-positive-obtaining-arbitrary-wildcard-ssl-certificates-from-comodo-via-dangling-markup-injection/
