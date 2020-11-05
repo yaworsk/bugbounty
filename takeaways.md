@@ -20,3 +20,8 @@
 - JS will keep calling `__prototype__` until it gets null
 - Setting a parameter to `{ __proto__ : 123 }` won't work; using `JSON.parse` will
 - Polluting arrays won't work because can't pollute length or indicies 
+
+> [$6K Worth Account Takeover via IDOR in Starbucks Singapore](http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/)
+- When hacking, include calls to external third party sites so as to monitor for integrations
+- Review any third party integration to confirm functionality the in scope target is relying on 
+- Consider how the two applications may communicate and whether a vulnerability in the third party can affect the in scope property (in this case, replacing an existin PHPSESSID)
