@@ -226,6 +226,7 @@
 - 05/29/2020 - My Expense Report Resulted in a Server-Side Request Forgery on Lyft - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft
 - 05/31/2020 - How I made $31500 by submitting a bug to Facebook - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
 - 08/04/2020 - Vulnerabilities in the Openfire Admin Console - https://swarm.ptsecurity.com/openfire-admin-console/
+- 11/12/2020 - 31k$ SSRF in Google Cloud Monitoring led to metadata exposure - https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html
 
 #### SSTI
 - 02/15/2015 - RCE in Oracle NetBeans Opensource Plugins: PrimeFaces 5.x Expression Language Injection - http://blog.mindedsecurity.com/2016/02/rce-in-oracle-netbeans-opensource.html
