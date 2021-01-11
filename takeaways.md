@@ -25,3 +25,9 @@
 - When hacking, include calls to external third party sites so as to monitor for integrations
 - Review any third party integration to confirm functionality the in scope target is relying on 
 - Consider how the two applications may communicate and whether a vulnerability in the third party can affect the in scope property (in this case, replacing an existin PHPSESSID)
+
+> [Stealing Your Private YouTube Videos, One Frame at a Time](https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/)
+- Set a goal and focus on achieving that; in this case, accessing private YouTube videos
+- Blindly modifying IDs is repetitive and boring
+- Look for opportunities where two systems talk to each other; they may not respect access control boundaries
+- Develop a full proof of concept to demonstrate impact; it'll help sell your case
