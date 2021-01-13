@@ -88,6 +88,7 @@
 - 10/07/2020 - $6K Worth Account Takeover via IDOR in Starbucks Singapore - http://www.kamilonurozkaleli.com/posts/starbucks-singapore-account-takeover/
 - 01/03/2021 - Expose the email address of Workplace users - https://ysamm.com/?p=588
 - 01/11/2021 - Stealing Your Private YouTube Videos, One Frame at a Time - https://bugs.xdavidhu.me/google/2021/01/11/stealing-your-private-videos-one-frame-at-a-time/
+- 01/08/2021 - Create post on any Facebook page - https://www.darabi.me/2020/12/create-invisible-post-on-any-facebook.html
 
 #### HTML Injection
 - 07/26/2016 - Keeping Positive &ndash; Obtaining Arbitrary Wildcard SSL Certificates from Comodo via Dangling Markup Injection -https://thehackerblog.com/keeping-positive-obtaining-arbitrary-wildcard-ssl-certificates-from-comodo-via-dangling-markup-injection/
