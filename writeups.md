@@ -192,6 +192,7 @@
 - 10/18/2020 - GitHub - RCE via git option injection (almost) - https://devcraft.io/2020/10/18/github-rce-git-inject.html
 - 10/19/2020 - Symfony Secret Fragments - https://www.ambionics.io/blog/symfony-secret-fragment
 - 10/20/2020 - GitHub Pages - Multiple RCEs via insecure Kramdown configuration - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html
+- 01/13/2021 - Achieving Remote Code Execution by Exploiting Variable Check Feature - https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html
 
 #### Reverse Engineering
 - 04/19/2016 - Digging into a Facebook Worm -https://gist.githubusercontent.com/phwd/0ec21c6289543f35135e17aa11f7dec1/raw/a54995a3a1e18bdf4666b0a44e678ac979c1f932/wormwormworm.txt
