@@ -148,6 +148,7 @@
 
 #### Race Condition
 - 09/14/2019 - Race Condition that could Result to RCE - https://medium.com/bugbountywriteup/race-condition-that-could-result-to-rce-a-story-with-an-app-that-temporary-stored-an-uploaded-9a4065368ba3
+- 03/18/2021 - How we found and fixed a race condition in our session handling - https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/
 
 #### Relative Path Overwrite
 - 03/21/2014 - Relative vs Absolute -http://www.thespanner.co.uk/2014/03/21/rpo/
