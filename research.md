@@ -7,6 +7,9 @@
 ## Mobile Security
 - [The Ballot is Busted Before the Blockchain: A Security Analysis of Voatz, the First Internet Voting Application Used in U.S. Federal Elections](https://internetpolicy.mit.edu/wp-content/uploads/2020/02/SecurityAnalysisOfVoatz_Public.pdf)
 
+## OAuth
+- [Hidden OAuth attack vectors](https://portswigger.net/research/hidden-oauth-attack-vectors)
+
 ## Prototype Pollution
 - [Prototype Pollution and Bypassing Client Side HTML Sanitizers](https://research.securitum.com/prototype-pollution-and-bypassing-client-side-html-sanitizers/)
 - [Prototype Pollution attack in NodeJS application](https://github.com/HoLyVieR/prototype-pollution-nsec18/blob/master/paper/JavaScript_prototype_pollution_attack_in_NodeJS.pdf) 

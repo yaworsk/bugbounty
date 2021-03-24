@@ -230,6 +230,7 @@
 - 04/09/2018 - Piercing the Veil: Server Side Request Forgery to NIPRNetaccess - https://medium.com/bugbountywriteup/piercing-the-veil-server-side-request-forgery-to-niprnet-access-c358fd5e249a
 - 07/20/2018 - Into the Borg: Inside Google&#39;s Production Network-https://opnsec.com/2018/07/into-the-borg-ssrf-inside-google-production-network/
 - 10/18/2019 - A Tale of Exploitation in Spreadsheet File Conversions - https://buer.haus/2019/10/18/a-tale-of-exploitation-in-spreadsheet-file-conversions/
+- 05/21/2020 - RCE in Google Cloud Deployment Manager - https://www.ezequiel.tech/2020/05/rce-in-cloud-dm.html
 - 05/29/2020 - My Expense Report Resulted in a Server-Side Request Forgery on Lyft - https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft
 - 05/31/2020 - How I made $31500 by submitting a bug to Facebook - https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204
 - 08/04/2020 - Vulnerabilities in the Openfire Admin Console - https://swarm.ptsecurity.com/openfire-admin-console/
