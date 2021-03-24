@@ -1,5 +1,4 @@
 ## GitHub Secrets
-
 - [Git Leaks](https://github.com/zricethezav/gitleaks)
 > Audit git repos for secrets. Gitleaks provides a way for you to find unencrypted secrets and other unwanted data types in git source code repositories.
 
@@ -22,6 +21,10 @@
 ## Prototype Pollution
 - [PPScan](https://github.com/msrkp/PPScan)
 > Client Side Prototype Pollution Scanner
+
+## Request Smuggling
+- [h2cSmuggler](https://github.com/assetnote/h2csmuggler)
+- h2cSmuggler smuggles HTTP traffic past insecure edge-server proxy_pass configurations by establishing HTTP/2 cleartext (h2c) communications with h2c-compatible back-end servers, allowing a bypass of proxy rules and access controls.
 
 ## Server Side Request Forgery
 - [DNS Bin](http://dnsbin.zhack.ca/)
