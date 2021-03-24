@@ -14,6 +14,7 @@
 ## Request Smuggling
 - [Security: HTTP Smuggling, Apache Traffic Server](https://regilero.github.io/english/security/2019/10/17/security_apache_traffic_server_http_smuggling/)
 - [HTTP Request Smuggling – 5 Practical Tips](https://honoki.net/2020/02/18/http-request-smuggling-5-practical-tips/)
+- [h2c smuggling](https://blog.assetnote.io/2021/03/18/h2c-smuggling/)
 
 ## SAML
 - [On Breaking SAML: Be Whoever You Want To Be](https://www.usenix.org/system/files/conference/usenixsecurity12/sec12-final91.pdf)
