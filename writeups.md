@@ -13,6 +13,7 @@
 - 11/27/2017 - How I owned the BBC with a Simple Misconfiguration - https://www.daley.cc/how-i-owned-the-bbc-with-a-simple-misconfiguration-due-to-human-laziness
 - 03/27/2018 - Google XML sitemap auth bypass &ndash; Black Hat SEO Bug Bounty - http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/
 - 10/03/2019 - Application logic bug in Signal allows for calls to be answered without interaction - https://bugs.chromium.org/p/project-zero/issues/detail?id=1943
+- 12/11/220 - How I hacked Facebook: Part One - https://infosecwriteups.com/how-i-hacked-facebook-part-one-282bbb125a5d
 
 #### Authentication
 - 04/27/2016 -Microsoft Office 365 SAML Bypass -http://www.economyofmechanism.com/office365-authbypass.html
@@ -25,6 +26,7 @@
 - 03/21/2017 - Stealing messenger.com login nonces - https://stephensclafani.com/2017/03/21/stealing-messenger-com-login-nonces/
 - 09/06/2017 - Uber Bug Bounty: Gaining Access to an Internal Chat System -http://blog.mish.re/index.php/2017/09/06/uber-bug-bounty-gaining-access-to-an-internal-chat-system/
 - 10/01/2019 - CompleteFTP Server Local Privilege Escalation CVE-2019-16116 - https://rhinosecuritylabs.com/application-security/completeftp-server-local-privesc-cve-2019-16116/
+- 03/18/2021 - How I hacked Facebook: Part Two - https://infosecwriteups.com/how-i-hacked-facebook-part-two-ffab96d57b19
 
 #### Browser
 - 08/16/2016 - Google Chrome, Firefox Address Bar Spoofing Vulnerability - http://www.rafayhackingarticles.net/2016/08/google-chrome-firefox-address-bar.html
