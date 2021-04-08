@@ -54,7 +54,7 @@
 #### CSRF
 - 05/17/2016 - How I bypassed Facebook CSRF in 2016 -http://pouyadarabi.blogspot.ca/2016/05/how-i-bypassed-facebook-csrf-in-2016.htm
 - 19/07/2016 - Paypal bug bounty: Updating the Paypal.me profile picture without consent (CSRF attack) -https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/
-- 26/10/2016 - Google Spreadsheet Vuln - CSRF and JSON Hijacking allows data theft - https://www.rodneybeede.com/Google_Spreadsheet_Vuln_-_CSRF_and_JSON_Hijacking_allows_data_theft.html
+- 26/10/2016 - Google Spreadsheet Vuln - CSRF and JSON Hijacking allows data theft - https://www.rodneybeede.com/Google_Spreadsheet_Vuln_-\_CSRF_and_JSON_Hijacking_allows_data_theft.html
 
 #### CSV Injection
 - 29/01/2013 - Cell Injection: Attacking the End User Through the Application - http://blog.7elements.co.uk/2013/01/cell-injection.html
@@ -196,6 +196,8 @@
 - 10/19/2020 - Symfony Secret Fragments - https://www.ambionics.io/blog/symfony-secret-fragment
 - 10/20/2020 - GitHub Pages - Multiple RCEs via insecure Kramdown configuration - https://devcraft.io/2020/10/20/github-pages-multiple-rces-via-kramdown-config.html
 - 01/13/2021 - Achieving Remote Code Execution by Exploiting Variable Check Feature - https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html
+- 03/17/2021 - Stealing arbitrary GitHub Actions secrets - https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html
+- 02/4/2021 - Improper Access Control GitHub Workflow - https://blog.tyage.net/posts/2021-04-02-improper-access-control-github-workflow/ 
 
 #### Reverse Engineering
 - 04/19/2016 - Digging into a Facebook Worm -https://gist.githubusercontent.com/phwd/0ec21c6289543f35135e17aa11f7dec1/raw/a54995a3a1e18bdf4666b0a44e678ac979c1f932/wormwormworm.txt
