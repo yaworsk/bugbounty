@@ -21,6 +21,9 @@
 ## Salesforce
 -[Salesforce Lightning](https://www.enumerated.de/index/salesforce)
 
+## SQLi
+- [DNS Based Out of Band Blind SQL Injection in Oracle - Dumping Data](https://usamaazad.medium.com/dns-based-out-of-band-blind-sql-injection-in-oracle-dumping-data-45f506296945)
+
 ## Subdomain Takeover
 - [Subdomain Takeover Pro Tips](https://securitytrails.com/blog/subdomain-takeover-tips)
 
