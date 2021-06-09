@@ -15,6 +15,9 @@
 - [A Red Team Guide for a Hardware Penetration Test](https://medium.com/@adam.toscher/a-red-team-guide-for-a-hardware-penetration-test-part-1-2d14692da9a1)
 - [JTag Explained](https://blog.senr.io/blog/jtag-explained)
 
+## Methodology
+- [Zseano Methodology](https://www.bugbountyhunter.com/methodology)
+ 
 ## Mobile
 - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
 
