@@ -22,6 +22,9 @@
 - [PPScan](https://github.com/msrkp/PPScan)
 > Client Side Prototype Pollution Scanner
 
+-[page-fetch](https://github.com/detectify/page-fetch)
+> Fetch web pages using headless Chrome, storing all fetched resources including JavaScript files and run arbitrary JavaScript on many web pages and see the returned values
+
 ## Request Smuggling
 - [h2cSmuggler](https://github.com/assetnote/h2csmuggler)
 - h2cSmuggler smuggles HTTP traffic past insecure edge-server proxy_pass configurations by establishing HTTP/2 cleartext (h2c) communications with h2c-compatible back-end servers, allowing a bypass of proxy rules and access controls.
