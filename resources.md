@@ -18,6 +18,9 @@
 ## Mobile
 - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
 
+## Prototype Pollution
+- [What is a Prototype Pollution vulnerability and how does page-fetch help?](https://labs.detectify.com/2021/06/08/what-is-a-prototype-pollution-vulnerability-and-how-does-page-fetch-help)
+
 ## Salesforce
 -[Salesforce Lightning](https://www.enumerated.de/index/salesforce)
 
