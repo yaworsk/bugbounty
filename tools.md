@@ -11,6 +11,10 @@
 - [ShhGit](https://github.com/eth0izzle/shhgit/)
 > Shhgit finds secrets and sensitive files across GitHub code and Gists committed in near real time by listening to the GitHub Events API.
 
+## GraphQL
+- [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager)
+> Represent any GraphQL API as an interactive graph. It's time to finally see the graph behind GraphQL.
+
 ## Parameter Discovery
 - [Arjun](https://github.com/s0md3v/Arjun)
 > Arjun finds valid HTTP parameters with a huge default dictionary of 25,980 parameter names. It takes less than 30 seconds to go through this huge list while making just 50-60 requests to the target.
