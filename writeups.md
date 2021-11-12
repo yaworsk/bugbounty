@@ -147,6 +147,7 @@
 - 02/21/2019 - Breaking out of Docker via runC – Explaining CVE-2019-5736 - https://www.twistlock.com/labs-blog/breaking-docker-via-runc-explaining-cve-2019-5736/
 - 08/28/2019 - Non-root containers, Kubernetes CVE-2019-11245 and why you should care - https://www.twistlock.com/labs-blog/non-root-containers-kubernetes-cve-2019-11245-care/
 - 10/28/2021 - Microsoft finds new macOS vulnerability, Shrootless, that could bypass System Integrity Protection - https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/
+- 11/10/2021 - ChaosDB Explained: Azure's Cosmos DB Vulnerability Walkthrough - https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough
 
 #### Race Condition
 - 09/14/2019 - Race Condition that could Result to RCE - https://medium.com/bugbountywriteup/race-condition-that-could-result-to-rce-a-story-with-an-app-that-temporary-stored-an-uploaded-9a4065368ba3
