@@ -201,6 +201,7 @@
 - 01/13/2021 - Achieving Remote Code Execution by Exploiting Variable Check Feature - https://www.shawarkhan.com/2021/01/achieve-remote-code-execution-by.html
 - 03/17/2021 - Stealing arbitrary GitHub Actions secrets - https://blog.teddykatz.com/2021/03/17/github-actions-write-access.html
 - 02/4/2021 - Improper Access Control GitHub Workflow - https://blog.tyage.net/posts/2021-04-02-improper-access-control-github-workflow/ 
+- 05/31/2022 - Open Redirect to RCE in One Week - https://medium.com/@byq/from-open-redirect-to-rce-in-one-week-66a7f73fd082
 
 #### Reverse Engineering
 - 04/19/2016 - Digging into a Facebook Worm -https://gist.githubusercontent.com/phwd/0ec21c6289543f35135e17aa11f7dec1/raw/a54995a3a1e18bdf4666b0a44e678ac979c1f932/wormwormworm.txt
